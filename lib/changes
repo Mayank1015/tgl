@@ -1,0 +1,20 @@
+
+-- UI --
+1. Logo on login page
+2. Search bar on home page
+3. More control for video player
+4. Responsive height for tabBarContent (VideoPlayerScreen)
+
+
+
+-- State management --
+1. loading content at home page
+2. VideoPlayerScreen=> Horizontal List
+
+
+
+-- Logics --
+1. Send OTP
+2. Google Sign-in option
+3. Course Contents
+4.
